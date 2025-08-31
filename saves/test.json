@@ -1,0 +1,29 @@
+{
+  "player_name": "abiodun",
+  "secret_word": [
+    "D",
+    "I",
+    "S",
+    "P",
+    "L",
+    "A",
+    "Y",
+    "E",
+    "D"
+  ],
+  "display_word": [
+    "_",
+    "_",
+    "_",
+    "_",
+    "_",
+    "_",
+    "_",
+    "_",
+    "_"
+  ],
+  "wrong_guesses": [],
+  "all_guessed_letters": [],
+  "guesses_left": 6,
+  "game_active": true
+}
